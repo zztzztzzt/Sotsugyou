@@ -1,5 +1,5 @@
 # Sotsugyou
 
-This is a implementation of the content of the third chapter of my graduation
+This is a implementation of the content of the third chapter of my graduation paper
 
 not finished
